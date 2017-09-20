@@ -1,10 +1,8 @@
-
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: about/
 ---
-
 ## About Me
 
 I'm a rising senior at Brown University, studying physics and am a candidate in the Undergraduate Teacher Education Program (UTEP), an undergraduate track for teacher licensure offered by Brown's education department. In May 2018, I will be graduating, and will hopefully start as a high school teacher in Fall 2018.
