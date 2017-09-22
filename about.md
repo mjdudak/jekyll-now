@@ -17,10 +17,6 @@ At Brown, in addition to studying physics and my candidacy in UTEP, I researched
 
 My work experience spans the past five years, in various education and camp counselor roles. I started as a camp counselor for the Warrenville Park District's day camp for three summers, working as a supervisor for the last two. During Summer 2016, I worked as a Residential Counselor at the Stanford Pre-Collegiate Summer Institutes, serving as a camp counselor and TA. During my sophomore, junior, and senior years, I have worked as a grader in the Math Department, grading (at various points) Calculus I, II, and III, and Linear Algebra. And during junior spring and this fall, I have worked as a tutor for the Dean of the College, tutoring the introduction physics classes.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mjdudak@mjdudak.com](mailto:mjdudak@mjdudak)
